@@ -1,0 +1,86 @@
+---
+title: "Better Tables and Graphs with R"
+subtitle: "Hihg-quality and publication-ready graphs"
+author: "Lenard Dome"
+date: "`r format(Sys.time(), '%b %d, %Y')`"
+output:
+  xaringan::moon_reader:
+    css: ["libs/default.css", "libs/default-fonts.css"]
+    seal: true 
+    self_contained: false
+    nature:
+      ratio: "21:11"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+class: middle left inverse
+
+```{r, include = FALSE}
+library(emo)
+library(fontawesome)
+```
+
+
+# Sessions
+
+* 🔢 [Better Tables](https://www.andywills.info/rminr/better-tables.html)
+* 📊 [Better Graphs](https://www.andywills.info/rminr/better-graphs.html)
+
+---
+
+class: top left inverse
+
+# Better Tables
+
+.pull-left[
+
+## Why R?
+
+* Reproducible tables
+* Reduces the chance of making an error
+* Make changes effortlessly 
+* Supports all formats
+
+]
+
+.pull-right[
+
+## Worksheet
+
+* [Click on me 📝](https://www.andywills.info/rminr/better-tables.html)
+
+]
+---
+
+class: middle left inverse
+
+# Better Tables Assessment
+
+* PASS/FAIL
+
+---
+
+class: middle left inverse
+
+# Better Graphs
+
+* Reproducible figures
+* High-quality figures
+* Reduces chance of errors
+
+## Worksheet
+
+---
+
+class: middle left inverse
+
+# Assessment
+
+* PASS/FAIL
