@@ -1,6 +1,6 @@
 ---
 title: "Better Tables and Graphs with R"
-subtitle: "Hihg-quality and publication-ready graphs"
+subtitle: "Hihg-quality publication-ready tables and graphs"
 author: "Lenard Dome"
 date: "`r format(Sys.time(), '%b %d, %Y')`"
 output:
@@ -37,7 +37,7 @@ library(fontawesome)
 
 class: top left inverse
 
-# Better Tables
+# Better Tables: Session
 
 .pull-left[
 
@@ -54,33 +54,66 @@ class: top left inverse
 
 ## Worksheet
 
-* [Click on me 📝](https://www.andywills.info/rminr/better-tables.html)
+* Try to solve errors.
+* [Click on me to get to the worksheet 📝](https://www.andywills.info/rminr/better-tables.html)
+* If anything is unclear on the worksheet - do let me know
 
 ]
----
-
-class: middle left inverse
-
-# Better Tables Assessment
-
-* PASS/FAIL
 
 ---
 
-class: middle left inverse
+class: top left inverse
 
-# Better Graphs
+# Better Tables: Assessment
+
+PASS/FAIL (optional) assessment in the form of a PSYC:EL task.
+
+1. Copy-paste the code you used in Exercise 1.
+2. Copy-paste the code you used in Exercise 2.
+
+![](./assets/psycel-tables.png)
+
+---
+
+class: top left inverse
+
+# Better Graphs: Session
+
+.pull-left[
+
+## Why R?
 
 * Reproducible figures
 * High-quality figures
 * Reduces chance of errors
 
+]
+
+.pull-right[
+
 ## Worksheet
+
+* Try to solve errors.
+* Play around with the graphs.
+* [Click on me to get to the worksheet 📝](https://www.andywills.info/rminr/better-tables.html)
+* If anything is unclear on the worksheet - do let me know
+
+]
 
 ---
 
-class: middle left inverse
+class: top left inverse
 
-# Assessment
+# Better Graphs: Assessment
 
-* PASS/FAIL
+PASS/FAIL (optional) PSYC:EL task.
+
+![](./assets/psycel-graphs.png)
+
+---
+
+# The End
+
+`r emo::ji("email")` lenard.dome@plymouth.ac.uk
+
+slides are availabe at [lenarddome.github.io/teaching](https://lenarddome.github.io/teaching/)
