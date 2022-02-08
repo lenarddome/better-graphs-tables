@@ -4,3 +4,5 @@ This repository contains the materials used for delivering an optional module fo
 
 * `NOTES.md` Teaching Notes used for delivery.
 * `index.Rmd` Slides created with Rmarkdown.
+
+In order to view the slides, visit the following [link](https://lenarddome.github.io/better-graphs-tables/#1).
