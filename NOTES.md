@@ -1,3 +1,7 @@
+# Teacher's Notes
+
+## Better Tables Session
+
 Tables created with R are reproducible.
 You can create the table from the bottom up straight from your data.
 The advantage of this is that there is no hand editing, because the process is automated.
@@ -19,3 +23,5 @@ I would only give you a couple of suggestions for the worksheet.
 1. Read everything. All the explanations are their for you - not only now but also in the future. If you read the worksheet once, you will be able to find things in the future if you need them.
 2. Try to solve errors by yourselves. Try to explore what you can do and what R can do. You can google how to make tables in R and you end up with a myriad of packages.
 3. Feedback is always appreciated. Do let me know if you think some things should be clearer; if you think something is missing from the worksheet.
+
+## Better Tables Assessment
