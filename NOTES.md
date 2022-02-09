@@ -22,9 +22,10 @@ If you edit by hand, you can end up spending an hour to editing the table.
 That time (in my opinion) should be spent on more important matters.
 Because R tables are reproducible, you can reuse R scripts you wrote.
 This lets you use previous R scripts to make tables in any future projects by effortlessly inserting a few lines of R commands from the script.
-
+This is fairly useful when you have to create for example monthly presentation for your employer or produce the same table across different data sets from different projects.
 Another big advantage is that it supports all formats.
 Some places require you to submit figures and tables separately in PDF, some asks you to put it at the end of the document as a word document.
+R will also allow you to create tables for blog posts or interactive tables you can play around online or during a presentation.
 All this is made easier with R.
 
 This worksheet is all about making your life easier - I know it might not seem like that now, but rest assured it will come to fruition when you are doing your data analysis or making a presentation in your future job.
@@ -36,3 +37,12 @@ I would only give you a couple of suggestions for the worksheet.
 3. Feedback is always appreciated. Do let me know if you think some things should be clearer; if you think something is missing from the worksheet.
 
 ## Better Tables Assessment
+
+PSYC:EL assesments:
+
+1. two component, both are in-class exercises
+2. include all the code from loading the packages and the data until the point the graph is produced
+
+## Better Graphs Session
+
+## Better Graphs Assessment
