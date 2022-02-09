@@ -1,5 +1,16 @@
 # Teacher's Notes
 
+This session, and its complementary session, will help you learn how to create tables and graphs from the bottom up.
+Both tables and figures are essentially ways to help communicate some information.
+You need to think of them as literary devices that  drive the plot.
+They are tools to clarify parts of your message and help you get your points across.
+This is important!
+They summarise and clarify.
+You can see that sometimes tables and graphs are used to repeat information instead of making it clearer.
+They repeat information in an attempt to solidify the message.
+This is the wrong the strategy, because it will not help to make your message clearer or to deliver it, but instead tries to hammer the message into the reader.
+In this workshop, you will complete a worksheet that walks you through each steps of creating a table, demonstrates some good practices, and provides some good suggestions.
+
 ## Better Tables Session
 
 Tables created with R are reproducible.
